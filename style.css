@@ -1,0 +1,22 @@
+body {
+    color: white;
+    background-color: black;
+}
+
+#Logo {
+    float: left;
+    padding-top: 20px;
+    Padding-bottom: 20px
+
+}
+ 
+nav li {
+display: inline-block;
+margin: 0px auto;
+font-style: italic;
+padding: 30px;
+vertical-align: middle;
+text-align: center;
+
+}
+
