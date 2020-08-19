@@ -9,10 +9,15 @@ body {
     Padding-bottom: 20px
 
 }
+
+img{
+padding: 50px;
+}
  
 nav li {
 display: inline-block;
 margin: 0px auto;
+font-size: 25px;
 font-style: italic;
 padding: 30px;
 vertical-align: middle;
@@ -20,3 +25,7 @@ text-align: center;
 
 }
 
+main {
+    font-size: 30px;
+    color: red;
+}
